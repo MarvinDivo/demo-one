@@ -33,5 +33,9 @@
     "devDependencies": {
         "browser-sync": "2.26.3",
         "gulp": "4.0.0"
+    },
+    "scripts": {
+        "build": "gulp default",
+        "dev": "gulp dev"
     }
 }
